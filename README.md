@@ -1,3 +1,6 @@
+![](http://cdn7.okayapi.com/CEE4B8A091578B252AC4C92FB4E893C3_20190304213902_63f85e982adc8419feffd862e883581e.jpeg)
+
+
 # yesapi-vue-uniapp-sdk
  uniapp调用小白接口sdk-https://github.com/yesapicn/yesapi-vue-uniapp-sdk
  首先把okayapi-vue-sdk文件下载后放入components文件夹，然后把okayapi.js的appkey跟appsecret修改成[自己的信息](http://open.yesapi.cn/?r=App/Mine)（点击查看）。如图![在这里插入图片描述](https://img-blog.csdnimg.cn/20190414221223400.png?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3dlaXhpbl80MjkzMjM2OQ==,size_16,color_FFFFFF,t_70)
